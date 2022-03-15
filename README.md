@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:pijushchakma120@gmail.com" target="blank"><img align="center" src="https://drive.google.com/file/d/1nm_eT7lCycaoeeR-IF2V8iH_PSPQ0bqC/view?usp=sharing" alt="pijush chakma" height="30" width="40" /></a>
+<a href="mailto:pijushchakma120@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="pijush chakma" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/pijush-chakma-88945b190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pijush chakma" height="30" width="40" /></a>
 <a href="https://www.facebook.com/pijush.chakma.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pijush chakma" height="30" width="40" /></a>
 <a href="https://www.instagram.com/pijush_chakma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pijush chakma" height="30" width="40" /></a>
