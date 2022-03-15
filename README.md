@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm PIJUSH CHAKMA</h1>
 <h3 align="center">A passionate Computer Science and Engineering student of BUET</h3>
+<p> I am an enthusiastic learner and I am interested in software development </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
